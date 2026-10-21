@@ -3,12 +3,14 @@
 <img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/assets/boxart/earthbound.png?raw=true" alt="alt text" width="198" height="300" /> <img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/assets/boxart/mother3.png?raw=true" alt="alt text" width="198" height="300" />
 
 
-Mother (Earthbound Beginnings Remake, Eartbound Recompiled, and Mother3Recomp, packaged with launcher and guides for retro handhelds via Portmasters and linux desktop.
+Mother (Earthbound Beginnings Remake, Eartbound Recompiled, and Mother3Recomp, packaged with launcher and guides for retro handhelds via Portmaster and linux desktop. Portmaster port has only been tested personally on muOs and Jelos and has not gone through official Portmaster testing standards and formatting at this time.
 
-Download desktop or handheld version from releases, add guides.zip contents to mother_collection/guides (note the Mother guide is the Japanese Mother Encyclopdia, will be replaced with Earthbound Bgeinnings Remake Player's Guide upon release), place roms in respective folders, run launcher. Note that no roms or bios are included with this package, user must source and provide their own.
+Download desktop or handheld version from releases, add guides.zip contents to mother_collection/guides (note the Mother guide is the Japanese Mother Encyclopdia, will be replaced with Earthbound Beginnings Remake Player's Guide upon release), place roms and gba bios in respective folders, run launcher. Hash enforcement is not implemented at this time to allow romhacks and different game versions, but base hashes tested are noted in "placeromhere" in respective game folders. Note that no roms or bios are included with this package, user must source and provide their own.
 
 For building Earthbound Recompiled and Mother3Recomp from source, see https://github.com/seanstaggsQU/earthboundRecompLinux2026 and https://github.com/josiahg2502-glitch/Mother3Recomp respectively.
 (minor modifications have been made, i.e. addition of m3 battle sprites to Earthbound, minor bug fixes, etc. Personal source repos pending.)
+
+For the launcher background images, boxart, background music, guides, and game executables can be customized by replacing the respective files in assets/ guides/ and gamefolders. mReader is bundled for viewing guide, different reader can be used by replacing mreader/reader with launch script for epub reader of choice.
 
 Building launcher from src:
 # MOTHER / EarthBound Collection Launcher
