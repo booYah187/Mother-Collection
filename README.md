@@ -1,9 +1,13 @@
 # Mother-Collection
-Mother (Earthbound Beginnings Remake, Eartbound Recompiled, and Mother3Recomp, packaged with launcher for retro handhelds via Portmasters.
+<img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/Mother%20Collection.png?raw=true" alt="alt text" width="198" height="300" /> <img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/assets/boxart/mother.png?raw=true" alt="alt text" width="198" height="300" />
+<img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/assets/boxart/earthbound.png?raw=true" alt="alt text" width="198" height="300" /> <img src="https://github.com/booYah187/Mother-Collection/blob/main/Handheld/mother_collection/assets/boxart/mother3.png?raw=true" alt="alt text" width="198" height="300" />
+
+
+Mother (Earthbound Beginnings Remake, Eartbound Recompiled, and Mother3Recomp, packaged with launcher and guides for retro handhelds via Portmasters and linux desktop.
 
 Download desktop or handheld version from releases, add guides.zip contents to mother_collection/guides (note the Mother guide is the Japanese Mother Encyclopdia, will be replaced with Earthbound Bgeinnings Remake Player's Guide upon release), place roms in respective folders, run launcher.
 
-For building Earthbound Recompiled and Mother3Recomp from source, see https://github.com/seanstaggsQU/earthboundRecompLinux2026 and https://github.com/josiahg2502-glitch/Mother3Recomp
+For building Earthbound Recompiled and Mother3Recomp from source, see https://github.com/seanstaggsQU/earthboundRecompLinux2026 and https://github.com/josiahg2502-glitch/Mother3Recomp respectively.
 (minor modifications have been made, i.e. addition of m3 battle sprites to Earthbound, minor bug fixes, etc. Personal source repos pending.)
 
 Building launcher from src:
