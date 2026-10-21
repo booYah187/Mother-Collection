@@ -5,7 +5,7 @@
 
 Mother (Earthbound Beginnings Remake, Eartbound Recompiled, and Mother3Recomp, packaged with launcher and guides for retro handhelds via Portmasters and linux desktop.
 
-Download desktop or handheld version from releases, add guides.zip contents to mother_collection/guides (note the Mother guide is the Japanese Mother Encyclopdia, will be replaced with Earthbound Bgeinnings Remake Player's Guide upon release), place roms in respective folders, run launcher.
+Download desktop or handheld version from releases, add guides.zip contents to mother_collection/guides (note the Mother guide is the Japanese Mother Encyclopdia, will be replaced with Earthbound Bgeinnings Remake Player's Guide upon release), place roms in respective folders, run launcher. Note that no roms or bios are included with this package, user must source and provide their own.
 
 For building Earthbound Recompiled and Mother3Recomp from source, see https://github.com/seanstaggsQU/earthboundRecompLinux2026 and https://github.com/josiahg2502-glitch/Mother3Recomp respectively.
 (minor modifications have been made, i.e. addition of m3 battle sprites to Earthbound, minor bug fixes, etc. Personal source repos pending.)
